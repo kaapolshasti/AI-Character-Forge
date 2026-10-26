@@ -70,3 +70,19 @@ To reproduce the workflow, obtain the required models from their official source
 ## Author
 
 Developed as part of my ongoing exploration of local generative AI, character creation, and AI-assisted cinematic storytelling.
+
+
+## Generated Video Demo
+
+The following five-second vertical video was generated locally using the MiniMax H3 T2V workflow in ComfyUI on Apple Silicon (M4 Max).
+
+[Watch or download MiniMax H3 Demo](samples/MiniMax_H3_Demo.mp4)
+
+## ComfyUI Workflow
+
+The workflow used to generate the video is included below.
+
+[MiniMax H3 T2V Workflow JSON](workflows/MiniMax_H3_T2V_Workflow.json)
+
+Open the JSON in ComfyUI. You may need to install the required custom nodes and configure model paths for your environment. Model weights are not included in this repository.
+
